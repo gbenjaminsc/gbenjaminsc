@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Kenzie Academy 
 - 🌱 I’m currently learning Docker, SQL and Node
-- ⚡ Fun fact: Im a big fan of Esporte Clube Bahia!
+- ⚡ Fun fact: Im a big fan of Esporte Clube Bahia 🔵🔴🔘!
 
 ## stats
 
