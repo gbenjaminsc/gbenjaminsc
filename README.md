@@ -1,7 +1,7 @@
 ### Hello World!! I'm Gabriel Benjamin!😎
 
 - 🔭 I’m currently working on Kenzie Academy 
-- 🌱 I’m currently learning Docker, SQL and Node
+- 🌱 I’m currently learning Python and Django
 - ⚡ Fun fact: Im a big fan of Esporte Clube Bahia 🔵🔴🔘!
 
 ## stats
@@ -22,6 +22,7 @@
   <img align="center" alt="gabriel-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ## contact me
