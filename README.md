@@ -1,7 +1,7 @@
 ### Hello World!! I'm Gabriel Benjamin!😎
 
-- 🔭 I’m currently working on Kenzie Academy 
-- 🌱 I’m currently learning Python and Django
+- 🔭 I’m free for jobs
+- 🌱 I’m currently learning JAVA
 - ⚡ Fun fact: Im a big fan of Esporte Clube Bahia 🔵🔴🔘!
 
 ## stats
