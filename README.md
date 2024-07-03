@@ -1,14 +1,9 @@
 ### Hello World!! I'm Gabriel Benjamin!😎
 
-- 🔭 I’m free for jobs
-- 🌱 I'm currently deepening my knowledge in the stacks I already know
-- ⚡ Fun fact: Im a big fan of Esporte Clube Bahia 🔵🔴🔘!
-
 ## stats
 
 <div align="center">
   <a href="https://github.com/gbenjaminsc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbenjaminsc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbenjaminsc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -34,7 +29,3 @@
   <a href="https://www.linkedin.com/in/gbenjamin-1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href = "mailto:gabrielbenjamin2@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </a> 
-  
-##
-  
-![snake gif](https://github.com/gbenjaminsc/gbenjaminsc/blob/output/github-contribution-grid-snake.gif)
